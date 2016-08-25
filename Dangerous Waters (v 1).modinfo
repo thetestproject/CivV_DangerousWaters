@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="51c1856c-0911-4953-9495-8590c844b2b2" version="1">
+  <Properties>
+    <Name>Dangerous Waters</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Dangerous Waters</Teaser>
+    <Description>Dangerous Waters</Description>
+    <Authors>Jason Lamb</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="49B972AA68F81B0A3FD784193F55DCFF" import="0">Dangerous Waters.Civ5Map</File>
+  </Files>
+</Mod>
